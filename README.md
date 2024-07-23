@@ -24,7 +24,7 @@ business scenarios and relationships between different data tables.
 Project Deliverables:
 The project will conclude with a comprehensive analysis that includes:
 - SQL queries addressing management’s questions.
-- Visualizations created with Tableau Public.
+-  [Tableau visualizations](https://public.tableau.com/app/profile/alejandro.lopex/viz/3_10Story/Story1?publish=yes).
 - A narrative that translates complex data into actionable business insights.
 Final Analysis:
 This repository demonstrates not only technical proficiency in SQL but also the ability to
